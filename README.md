@@ -7,9 +7,12 @@ perception, navigation and control for mobile robots.
 
 ### [PiRacer Follow-Me](https://github.com/Adiksoon/Follow-Me-Piracer-Sim)
 
-My engineering thesis project. An Ackermann-steered robot searches for a
-suitcase, estimates its position from RGB-D data and follows it. The public
-repository includes a **Gazebo demo**, the simulation code and setup instructions.
+My engineering thesis project. I built the behavior coordination, RGB-D
+suitcase localization and following controller for an Ackermann-steered robot.
+The system can search a room, acquire the suitcase and follow it around an
+obstacle using Nav2.
+
+[See the Gazebo demo](https://github.com/Adiksoon/Follow-Me-Piracer-Sim#demo) · [View the test results](https://github.com/Adiksoon/Follow-Me-Piracer-Sim/actions/workflows/ci.yml)
 
 ### [Fire Rover](https://github.com/Adiksoon/fire-rover-vehicle)
 
