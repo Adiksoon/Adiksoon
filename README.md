@@ -3,6 +3,8 @@
 I build robotics software with **ROS 2, Python and C++**, focusing on
 perception, navigation and control for mobile robots.
 
+[Work GitHub activity](https://github.com/azygarowski) · Anonymized contribution history
+
 ## Selected projects
 
 ### [PiRacer Follow-Me](https://github.com/Adiksoon/Follow-Me-Piracer-Sim)
